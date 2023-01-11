@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "user_data": {
+                "name": "Ali",
+                "email": "ali@gmail.com",
+                "id": 1010
+            },
+            "type": "User"
+        },
+        {
+            "user_data": {
+                "name": "Ahmed",
+                "email": "aaa@bbb.com",
+                "id": 0,
+                "borrowedBooks": []
+            },
+            "type": "Student"
+        },
+        {
+            "user_data": {
+                "name": "Shadi",
+                "email": "Shadi@bbb.com",
+                "id": 1111,
+                "borrowedBooks": []
+            },
+            "type": "Student"
+        },
+        {
+            "user_data": {
+                "name": "Morris",
+                "email": "Moris@bbb.com",
+                "id": 2222,
+                "libraries": [
+                    "UPEI",
+                    "Ryerson"
+                ]
+            },
+            "type": "Librarian"
+        },
+        {
+            "user_data": {
+                "name": "David",
+                "email": "Dave@bbb.com",
+                "id": 3333,
+                "libraries": [
+                    "UPEI",
+                    "Ryerson"
+                ]
+            },
+            "type": "Admin"
+        }
+    ]
+}
